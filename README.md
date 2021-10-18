@@ -20,12 +20,18 @@ Easy To Deploy 🤗
     - install dependencies
     - python3 -m bot
 
-# Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=welldeccacobraofficial/KarinaYoutubeDownloader-Bot)
 
     
-## Thanks ❤️
+# Special Credits ❤
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
+
+
+
+## Devs
+
+- [Thilina](https://github.com/Thilinaweerasekara2003) - Dev
+- [Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana) - Dev
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/welldeccacobraofficial/KarinaYoutubeDownloader-Bot/tree/master)
