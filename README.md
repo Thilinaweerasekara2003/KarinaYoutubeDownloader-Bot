@@ -30,6 +30,7 @@ Easy To Deploy 🤗
 
 ## Devs
 
+- [Sehath Perera](https://github.cpm/welldeccacobraofficial) - Owner|Dev
 - [Thilina](https://github.com/Thilinaweerasekara2003) - Dev
 - [Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana) - Dev
 
