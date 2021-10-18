@@ -33,4 +33,4 @@ Report your problem along with your name to This **[Sehath](https://t.me/I_am_Se
  **[Thilina Weerasekara](https://github.com/Thilinaweerasekara2003)**
  **[Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana)**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=welldeccacobraofficial/KarinaYoutubeDownloader-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/welldeccacobraofficial/KarinaYoutubeDownloader-Bot)   
