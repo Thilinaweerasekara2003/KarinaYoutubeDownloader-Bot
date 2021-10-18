@@ -1,6 +1,6 @@
 # KarinaYoutubeDownloader-Bot
-# YouTubeSongDownloader
-YouTube Song Downloader Bot For Telegram 🔮 Powerd By Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs. For Help Ask
+
+YouTube Song Downloader Bot For Telegram ✅Powered by Karina Bots. For Help Ask
 
 3X Fast Telethon Based Bot ⚜
 
