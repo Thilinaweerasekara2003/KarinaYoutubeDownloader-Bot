@@ -1,5 +1,11 @@
 # KarinaYoutubeDownloader-Bot
-✅Powered by Karina Bots 🇱🇰
+✅Powered by Karina Bots 🇱🇰 | YouTube Song Downloader Bot. For Help Ask
+
+3X Fast Telethon Based Bot ⚜
+
+Open Source Bot 👨🏻‍💻
+
+Easy To Deploy 🤗
 
 ## Prerequisite
     ffmpeg
