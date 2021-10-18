@@ -1,20 +1,5 @@
 # KarinaYoutubeDownloader-Bot
-
-YouTube Song Downloader Bot For Telegram ✅Powered by Karina Bots. For Help Ask
-
-3X Fast Telethon Based Bot ⚜
-
-Open Source Bot 👨🏻‍💻
-
-
-```
-![logo](https://telegra.ph/file/fa8c6789618a67b14f725.jpg)
-
-# Report Any Error or Help Contact :
-[Channel 💬](https://t.me/MrsKarinaUpdates), 
-[Support ❤️](https://t.me/KarinaSupporters) 
-
-Report your problem along with your name to This **[Sehath](https://t.me/I_am_Sehazz)** 😪
+✅Powered by Karina Bots 🇱🇰
 
 ## Prerequisite
     ffmpeg
@@ -30,7 +15,7 @@ Report your problem along with your name to This **[Sehath](https://t.me/I_am_Se
     - python3 -m bot
     
 ## Thanks ❤️
- **[Thilina Weerasekara](https://github.com/Thilinaweerasekara2003)**
- **[Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana)**
+* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
+* [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/welldeccacobraofficial/KarinaYoutubeDownloader-Bot)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/welldeccacobraofficial/KarinaYoutubeDownloader-Bot/tree/master)
